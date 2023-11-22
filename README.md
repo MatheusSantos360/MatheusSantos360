@@ -28,5 +28,6 @@
 
 ###
 ##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSantos360&theme=dracula&count_private=true)](https://github.com/MatheusSantos360/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSantos360&theme=dracula&count_private=true&rank_icon=github&include_all_commits=true)](https://github.com/MatheusSantos360/github-readme-stats)
+###
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSantos360&layout=compact&theme=dracula&count_private=true)](https://github.com/MatheusSantos360/github-readme-stats)
