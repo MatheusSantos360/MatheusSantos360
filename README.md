@@ -18,3 +18,12 @@
 </div>
 </div>
 
+### Ferramentas
+<div align="left" background="red">
+<div style="display: inline_block"><br>
+  <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
+  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
+</div>
+</div>
+
