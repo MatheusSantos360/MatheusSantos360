@@ -25,5 +25,8 @@
   <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
   <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
 </div>
-</div>
 
+###
+##
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSantos360&theme=dracula&count_private=true)](https://github.com/MatheusSantos360/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSantos360&layout=compact&theme=dracula&count_private=true)](https://github.com/MatheusSantos360/github-readme-stats)
