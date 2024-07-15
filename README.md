@@ -1,7 +1,7 @@
-## Oi, eu sou o Matheus Dos Santos! 👋
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=Matheus+dos+Santos+Paix%C3%A3o;Ou...;Primegame360x)](https://git.io/typing-svg)
 ### Minhas skills
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
     
 
 **Web design responsivo**: tenho a capacidade de criar WebSites tanto para dispositivos de tela padrão quanto para móveis. 
