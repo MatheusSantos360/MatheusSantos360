@@ -1,33 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=Matheus+dos+Santos+Paix%C3%A3o;Ou...;Primegame360x)](https://git.io/typing-svg)
-### Minhas skills
+<a href="https://github.com/MatheusSantos360"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928"/></a>
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=Matheus+dos+Santos+Paix%C3%A3o;Ou...;Primegame360x)](https://git.io/typing-svg)
+
+# Sobre mim
+Gosto muito de criar WebSites, sendo criando a parte visual ou o sistema back-end! Estou estudando para seguir na área e usar meu conhecimento para usar tanto em mes empregos quanto para projetos pessoais. Eu pretendo me aperfeiçoar sempre mais em programação, aumnetando meus conhecimentos e se aproximando ainda mais dos meus sonhos! 
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
     
-
-**Web design responsivo**: tenho a capacidade de criar WebSites tanto para dispositivos de tela padrão quanto para móveis. 
-
-### Linguagens
-<div align="left" background="red">
-<div style="display: inline_block"><br>
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg">
-  <img align="center" alt="PHP" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg">
-  <img align="center" alt="C#" height="35" width="45" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-</div>
-</div>
-
-### Ferramentas
-<div align="left" background="red">
-<div style="display: inline_block"><br>
-  <img align="center" alt="VScode" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg">
-  <img align="center" alt="GitHub" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
-  <img align="center" alt="Canva" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/canva/canva-original.svg">
-</div>
-
-###
-##
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MatheusSantos360&theme=dracula&count_private=true&rank_icon=github&include_all_commits=true)](https://github.com/MatheusSantos360/github-readme-stats)
-###
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MatheusSantos360&layout=compact&theme=dracula&count_private=true)](https://github.com/MatheusSantos360/github-readme-stats)
+<a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928&reversal=true&section=footer"/></a>
