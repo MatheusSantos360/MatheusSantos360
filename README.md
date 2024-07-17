@@ -5,11 +5,8 @@
 # Sobre mim
 Gosto muito de criar WebSites, sendo criando a parte visual ou o sistema back-end! Estou estudando para seguir na área e usar meu conhecimento para usar tanto em mes empregos quanto para projetos pessoais. Eu pretendo me aperfeiçoar sempre mais em programação, aumnetando meus conhecimentos e se aproximando ainda mais dos meus sonhos!
 
-#
-# Skills
-
-
-
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
+# Skills
     
 <a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928&reversal=true&section=footer"/></a>
