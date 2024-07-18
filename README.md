@@ -8,12 +8,7 @@ Gosto muito de criar WebSites, sendo criando a parte visual ou o sistema back-en
 <br/>
 
 # Skills
-<details>
-<summary><b>Web Front-End</b></summary>
-<br>
-
-https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white
-</details>
+### <details><summary><b>Web Front-End</b></summary><br><img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" /></details>
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <a href="https://github.com/Cesargarciajr"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928&reversal=true&section=footer"/></a>
