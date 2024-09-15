@@ -64,7 +64,7 @@
   </details>
 
   <details>
-  <summary><b>⚡ DevOps</b></summary>
+  <summary><b>\t ⚡ DevOps</b></summary>
   <br>
 
 
