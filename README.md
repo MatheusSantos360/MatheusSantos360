@@ -13,6 +13,7 @@
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
+
 # Skills ⚡
 
 <details>
@@ -98,8 +99,10 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 </details>
 
+
 # Achievements 🏆
 - **I created a visual website for a city: Entrepreneur's Room.**
+
 
 # Goals 🎯
 - **Applying Test-Driven Development (TDD) practices to my projects.**
@@ -130,6 +133,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
 </details>
 
+
 # Currently studing/improving 🔍
 - **DevOps: Continuous Integration (CI), Continuous Delivery (CD) and IaC (Infrastructure as Code).**
 
@@ -142,10 +146,12 @@
 ![Daisy UI](https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white)&nbsp;
 </details>
 
+
 # Languages 🌎
 
 - **🇧🇷 Portuguese;**
 - **🇺🇸 English.**
+
 
 # Contact
 
