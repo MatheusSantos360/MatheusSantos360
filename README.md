@@ -1,4 +1,4 @@
-<a href="https://github.com/MatheusSantos360"><img heigt="100px" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928"/></a>
+<a href="https://github.com/MatheusSantos360"><img height="100px" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928"/></a>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=100&pause=1000&color=FFFFFF&center=true&width=600&height=80&lines=Matheus+dos+Santos+Paix%C3%A3o;Ou...;Primegame360x)](https://git.io/typing-svg)
 
@@ -130,7 +130,7 @@
 
 # Currently studing/improving 🔍
 - **DevOps: Continuous Integration (CI), Continuous Delivery (CD) and IaC (Infrastructure as Code).**
-- 
+
 <details>
 <summary><b>⚙️ Technologies</b></summary>
 <br>
