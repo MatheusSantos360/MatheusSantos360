@@ -9,6 +9,8 @@
 - **I started programming when I was 14 years old;**
 - **I study a lot 😅.**
 
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
+
 # Skills ⚡
 
 <details>
@@ -148,6 +150,5 @@
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
 ![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928&reversal=true&section=footer"/>
