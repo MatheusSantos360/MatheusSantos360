@@ -1,1 +1,3 @@
-# <summary>🎨 Front-End</summary>
+<details>
+<summary>🎨 Front-End</summary>
+</details>
