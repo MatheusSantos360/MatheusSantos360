@@ -1,10 +1,11 @@
-<a href="https://github.com/MatheusSantos360"><img height="100px" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928"/></a>
+<a href="https://github.com/MatheusSantos360"><img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928"/></a>
 
 <br>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=60&pause=1000&color=FFFFFF&center=true&width=1000&height=100&lines=Matheus+dos+Santos+Paix%C3%A3o;Or...;Primegame360x)](https://git.io/typing-svg)
 
 # About me
+
 <p align="center">Nice to meet you! My name is Matheus and I am passionate about technology, especially when it comes to "Websites". Creation, whether Front-end or Back-end, gives me even more enthusiasm to continue learning about it! I am studying to continue in the area and use my knowledge in different ways and means to achieve a result: "Solving problems". As Da Vinci said: "Learning is the only thing the mind never tires of, never fears and never regrets." For each dream, a goal and a mission.</p>
 
 - **I'm 15 years old;**
@@ -14,6 +15,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
 <br>
+
 # Skills ⚡
 
 <details>
@@ -100,10 +102,12 @@
 </details>
 
 <br>
+
 # Achievements 🏆
 - **I created a visual website for a city: Entrepreneur's Room.**
 
 <br>
+
 # Goals 🎯
 - **Applying Test-Driven Development (TDD) practices to my projects.**
 
@@ -134,6 +138,7 @@
 </details>
 
 <br>
+
 # Currently studing/improving 🔍
 - **DevOps: Continuous Integration (CI), Continuous Delivery (CD) and IaC (Infrastructure as Code).**
 
@@ -147,12 +152,14 @@
 </details>
 
 <br>
+
 # Languages 🌎
 
 - **🇧🇷 Portuguese;**
 - **🇺🇸 English.**
 
 <br>
+
 # Contact
 
 ![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
