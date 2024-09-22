@@ -10,7 +10,8 @@
 
 - **I'm 15 years old;**
 - **I started programming when I was 14 years old;**
-- **I study a lot 😅.**
+- **I study a lot 😅;**
+- **My main stack is MERN.**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -101,6 +102,8 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 </details>
 
+- **Create responsive websites;**
+- **Develop real-time chat apps.**
 <br>
 
 # Achievements 🏆
