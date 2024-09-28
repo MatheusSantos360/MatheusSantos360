@@ -167,8 +167,7 @@
 
 # Contact
 
-![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-![Github](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:matheusworkcontact@gmail.com)
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&fontColor=260928&reversal=true&section=footer"/>
