@@ -92,7 +92,6 @@
   <summary><b>Test tools</b></summary>
   <br>
 
-  ![Mocha](https://img.shields.io/badge/Mocha-8D6748?style=for-the-badge&logo=mocha&logoColor=white)&nbsp;
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   </details>
 </details>
@@ -106,6 +105,7 @@
 </details>
 
 - **Create responsive websites;**
+- **Create websites with animations;**
 - **Develop real-time chat apps.**
 <br>
 
@@ -122,11 +122,9 @@
 <br>
 
 ![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
-![Chai](https://img.shields.io/badge/Chai-A30701?style=for-the-badge&logo=chai&logoColor=white)&nbsp;
 ![Supertest](https://img.shields.io/badge/SuperTest-000000?style=for-the-badge&logo=supertest&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
 ![Three.js](https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white)&nbsp;
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
 </details>
 
 <details>
@@ -153,9 +151,7 @@
 <br>
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)&nbsp;
-![Daisy UI](https://img.shields.io/badge/DaisyUI-5A67D8?style=for-the-badge&logo=daisyui&logoColor=white)&nbsp;
-![Framer Motion](https://img.shields.io/badge/Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 </details>
 </details>
 
