@@ -123,7 +123,6 @@
 <summary><b>🎯 Technologies</b></summary>
 <br>
 
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 ![Supertest](https://img.shields.io/badge/SuperTest-000000?style=for-the-badge&logo=supertest&logoColor=white)&nbsp;
 ![Cypress](https://img.shields.io/badge/Cypress-17202C?style=for-the-badge&logo=cypress&logoColor=white)&nbsp;
 ![Mockgoose](https://img.shields.io/badge/Mockgoose-8A2BE2?style=for-the-badge&logo=mockgoose&logoColor=white)&nbsp;
@@ -155,6 +154,7 @@
 
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
 ![React test library](https://img.shields.io/badge/React_Testing_Library-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
+![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
 </details>
 </details>
 
