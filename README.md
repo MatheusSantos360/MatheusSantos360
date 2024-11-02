@@ -11,7 +11,6 @@
 - **I'm 16 years old;**
 - **I started programming when I was 14 years old;**
 - **I study a lot 😅;**
-- **My main stack is MERN.**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -74,7 +73,17 @@
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   </details>
 
+  <details>
+    <summary><b>Other tools</b></summary>
+    <br>
+
+  ![Tsx](https://img.shields.io/badge/Tsx-3178C6?style=for-the-badge&logo=tsx&logoColor=white)&nbsp;
+  ![Tsup](https://img.shields.io/badge/Tsup-3178C6?style=for-the-badge&logo=tsup&logoColor=white)&nbsp;
+  </details>
+
 </details>
+
+
 
 <details>
 <summary><b>⚡ DevOps</b></summary>
