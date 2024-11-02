@@ -82,8 +82,9 @@
     <summary><b>Other tools</b></summary>
     <br>
 
-  ![Tsx](https://img.shields.io/badge/Tsx-3178C6?style=for-the-badge&logo=tsx&logoColor=white)&nbsp;
-  ![Tsup](https://img.shields.io/badge/Tsup-3178C6?style=for-the-badge&logo=tsup&logoColor=white)&nbsp;
+  [![Tsx](https://img.shields.io/badge/Tsx-3178C6?style=for-the-badge&logo=tsx&logoColor=white)](https://tsx.sh/)
+  [![Tsup](https://img.shields.io/badge/Tsup-3178C6?style=for-the-badge&logo=tsup&logoColor=white)](https://tsup.egoist.dev/)
+
   </details>
 
 </details>
@@ -98,7 +99,8 @@
   <summary><b>Continuous Integration/Delivery & IaC tools</b></summary>
   <br>
 
-  ![Github Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)&nbsp;
+  [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://github.com/features/actions)
+
   </details>
 
   <details>
