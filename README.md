@@ -40,8 +40,9 @@
 <br>
 
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)&nbsp;
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
+![Zod](https://img.shields.io/badge/Zod-3178C6?style=for-the-badge&logo=zod&logoColor=white)&nbsp;
 ![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=for-the-badge&logo=mongoose&logoColor=white)&nbsp;
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)&nbsp;
 </details>
@@ -96,16 +97,19 @@
   <summary><b>Test tools</b></summary>
   <br>
 
+  ![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)
   ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
   </details>
 </details>
 
 <details>
+  
 <summary><b>🔧 Others</b></summary>
 <br>
 
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)&nbsp;
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)&nbsp;
+
 </details>
 
 - **Create responsive websites;**
@@ -122,6 +126,7 @@
 - **Applying Test-Driven Development (TDD) practices to my projects.**
 
 <details>
+  
 <summary><b>🎯 Technologies</b></summary>
 <br>
 
@@ -135,31 +140,31 @@
 </details>
 
 <details>
+  
 <summary><b>🎯 Tools</b></summary>
 <br>
 
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)&nbsp;
-![Argo CD](https://img.shields.io/badge/ArgoCD-EB5424?style=for-the-badge&logo=argo&logoColor=white)&nbsp;
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)&nbsp;
 ![JMeter](https://img.shields.io/badge/JMeter-D22128?style=for-the-badge&logo=apache-jmeter&logoColor=white)&nbsp;
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)&nbsp;
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)&nbsp;
 ![Promethueus](https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white)&nbsp;
 ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white)&nbsp;
+
 </details>
 
 <br>
 
 # Currently studing/improving 🔍
-- **DevOps: Continuous Integration (CI), Continuous Delivery (CD) and IaC (Infrastructure as Code);**
 - **Creating large applications: Studying, discovering and researching tools and technologies for creating large applications.**
 <details>
+  
 <summary><b>⚙️ Technologies</b></summary>
 <br>
 
-![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white)&nbsp;
-![React test library](https://img.shields.io/badge/React_Testing_Library-61DAFB?style=for-the-badge&logo=react&logoColor=white)&nbsp;
-![Jest](https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white)&nbsp;
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)&nbsp;
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=for-the-badge&logo=vitest&logoColor=white)&nbsp;
+
 </details>
 </details>
 
