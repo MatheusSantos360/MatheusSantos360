@@ -10,7 +10,8 @@
 
 - **I'm 16 years old;**
 - **I started programming when I was 14 years old;**
-- **I study a lot 😅;**
+- **I have read and read many books about;**
+- **I study a lot 😅.**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
 
@@ -184,6 +185,18 @@
 </details>
 
 <br>
+
+# Current Projects
+
+<details>
+  <summary><h5>Logfy-X</h5></summary>
+  <p><strong>Logfy-X</strong> is an NPM package designed for developers to make the logging process more efficient and user-friendly. It focuses on feature enhancements, bug fixes, documentation updates, and performance optimization.</p>
+</details>
+
+<details>
+  <summary><h5>Task-Master</h5></summary>
+  <p><strong>Task-Master</strong> is a to-do list application designed to help users stay organized and manage their tasks efficiently. It features task addition, editing, deletion, prioritization, due dates, and categorization.</p>
+</details>
 
 # Languages 🌎
 
