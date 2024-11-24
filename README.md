@@ -4,6 +4,12 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=60&pause=1000&color=FFFFFF&center=true&width=1000&height=100&lines=Matheus+dos+Santos;Or...;Primegame360x)](https://git.io/typing-svg)
 
+<p align="left">
+  <a href="https://github.com/MatheusSantos360">
+    <img src="https://komarev.com/ghpvc/?username=MatheusSantos360&label=Profile%20views&color=6a0dad&style=for-the-badge" alt="" />
+  </a>
+</p>
+
 # About me
 
 <p align="center">Nice to meet you! My name is Matheus and I am passionate about technology, especially when it comes to "Websites". Creation, whether Front-end or Back-end, gives me even more enthusiasm to continue learning about it! I am studying to continue in the area and use my knowledge in different ways and means to achieve a result: "Solving problems". As Da Vinci said: "Learning is the only thing the mind never tires of, never fears and never regrets." For each dream, a goal and a mission.</p>
