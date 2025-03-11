@@ -12,7 +12,7 @@
 
 # About me
 
-<p align="center">Nice to meet you! My name is Matheus and I am passionate about technology, especially when it comes to "Websites". Creation, whether Front-end or Back-end, gives me even more enthusiasm to continue learning about it! I am studying to continue in the area and use my knowledge in different ways and means to achieve a result: "Solving problems". As Da Vinci said: "Learning is the only thing the mind never tires of, never fears and never regrets." For each dream, a goal and a mission.</p>
+<p align="center">Nice to meet you! My name is Matheus and I am passionate about technology, especially when it comes to "Websites" or "APIs". Creation, whether Front-end or Back-end, gives me even more enthusiasm to continue learning about it! I am studying to continue in the area and use my knowledge in different ways and means to achieve a result: "Solving problems". As Da Vinci said: "Learning is the only thing the mind never tires of, never fears and never regrets." For each dream, a goal and a mission.</p>
 
 - **I'm 16 years old;**
 - **I started programming when I was 14 years old;**
