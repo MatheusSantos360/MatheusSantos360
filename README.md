@@ -14,9 +14,12 @@
 
 <p align="center">Nice to meet you! My name is Matheus and I am passionate about technology, especially when it comes to "Websites" or "APIs". Creation, whether Front-end or Back-end, gives me even more enthusiasm to continue learning about it! I am studying to continue in the area and use my knowledge in different ways and means to achieve a result: "Solving problems". As Da Vinci said: "Learning is the only thing the mind never tires of, never fears and never regrets." For each dream, a goal and a mission.</p>
 
+- **My resilience and willingness to learn and grow when combined...**
 - **I'm 16 years old;**
 - **I started programming when I was 14 years old;**
-- **I have read and read many books about;**
+- **2 years of experience;**
+- **Full-stack web developer;**
+- **I have read many books by different professionals**
 - **I study a lot 😅.**
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right">
