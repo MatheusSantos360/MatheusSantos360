@@ -116,7 +116,7 @@
 <summary><b>🔧 Others</b></summary>
 <br>
 
-[![C#](https://img.shields.io-badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/
+[![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)](https://learn.microsoft.com/en-us/dotnet/csharp/)
 
 </details>
 
