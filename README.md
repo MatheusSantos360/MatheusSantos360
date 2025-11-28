@@ -16,11 +16,30 @@
 
 ## 👨‍💻 About Me
 
-Hi there! I'm **Matheus dos Santos**, a 17-year-old full-stack developer passionate about building **websites** and **APIs**. I started coding at 14 and have been continuously learning and creating ever since.
+I wasn’t born ready. I wasn’t surrounded by the best resources, nor raised in an environment that naturally pushes someone toward technology.
+I was born with something much simpler — and far more powerful: the ability to never give up.
 
-I enjoy solving real-world problems through code — whether on the front-end or back-end. Currently, I'm focusing on building scalable apps, clean architecture, and test-driven development.
+I started programming at 14, alone, improvising, driven by the curiosity of someone who wanted to understand how the world works behind the screen. Little by little — line by line, mistake by mistake — I realized I could build real, useful, solid things.
+And that’s when a purpose was born: to use technology to transform my life and the lives of those who trust in me.
 
-> _“Learning is the only thing the mind never exhausts, never fears, and never regrets.” – Leonardo da Vinci_
+Today, at 17, I’m a full-stack developer focused on building scalable applications, robust APIs, clean systems, and — above all — solutions that don’t die on paper.
+
+But my growth didn’t happen only at the keyboard.
+I went through logistics, administration, customer service, contract management, and real operations inside actual companies. I worked in a burger shop, in markets, in clinics, as a freelancer, and in administrative support — and each one of these experiences gave me something no course ever could: a broader worldview and discipline at a high level.
+
+While many wait for the “perfect moment,” I create mine.
+While others rely on talent, I rely on determination.
+Because I truly believe — and live by — the sentence that guides everything I do:
+
+No talent can surpass sheer willpower.
+
+I’m evolving every single day: studying scalable architecture, practicing TDD, mastering professional standards, learning marketing, video editing, and storytelling.
+Soon, I’ll launch my YouTube channel — where I’ll document my evolution as a developer, as a gamer, as a creator, and as the protagonist of my own story. No shortcuts. No cheats. No masks. Just real progress.
+
+Deep down, I know one thing for sure:
+Today, maybe I’m just another beginner.
+Tomorrow, I’ll be a reference.
+And in the future… someone will say that I fulfilled everything I promised here.
 
 ### 💡 Quick facts:
 - 💻 Started programming at 14
