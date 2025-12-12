@@ -124,7 +124,7 @@ And in the future… someone will say that I fulfilled everything I promised her
 ## 🏆 Achievements
 
 - 🎯 Created a website for a local business: **Entrepreneur's Room**
-- 📦 Published the NPM package: [Logfy-X](#logfy-x)
+- 📦 Published the NPM package: [Logfy-X](https://github.com/MatheusSantos360/logfy-x) and [SparkZen](https://github.com/MatheusSantos360/SparkZen)
 - 📘 Read several tech books and applied lessons in real projects
 
 ---
@@ -134,6 +134,12 @@ And in the future… someone will say that I fulfilled everything I promised her
 ### 📦 Logfy-X
 
 > A logging library for Node.js focused on simplicity and performance.
+
+🛠 Tech: TypeScript, Node.js, NPM, Testing, Open Source
+
+### 🔥 SparkZen
+
+> The TypeScript-first API framework: zero-config, folder-based routing.
 
 🛠 Tech: TypeScript, Node.js, NPM, Testing, Open Source
 
