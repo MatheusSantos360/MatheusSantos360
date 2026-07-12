@@ -4,7 +4,7 @@
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+em+SparkZen+%2B+Fastify+%2B+Mongoose;Autor+do+framework+SparkZen+(sim%2C+eu+mesmo+fiz);Programando+desde+os+14+(nao+pergunta+como+sobrevivi)" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&lines=Backend+em+SparkZen+%2B+Fastify+%2B+Mongoose;Autor+do+framework+SparkZen+(sim%2C+eu+mesmo+fiz);Programando+desde+os+14+(sim,+sobrevivi)" />
   </a>
 </p>
 
@@ -104,14 +104,16 @@ Evolução quando o projeto pede: Refresh Tokens, permissões granulares, MFA. S
 <br>
 
 <p align="center">
+  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" /><br />
   <img src="https://img.shields.io/badge/pnpm_Workspaces-F69220?style=for-the-badge&logo=pnpm&logoColor=white" />
-  <img src="https://skillicons.dev/icons?i=docker,vercel,githubactions&theme=dark" />
   <img src="https://img.shields.io/badge/Railway-0B0D0E?style=for-the-badge&logo=railway&logoColor=white" />
   <img src="https://img.shields.io/badge/Fly.io-8B5CF6?style=for-the-badge&logo=flydotio&logoColor=white" />
 </p>
-
+<br />
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vitest,playwright,eslint&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vitest&theme=dark" /><br />
+  <img src="https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge&logo=playwright&logoColor=white" />
+  <img src="https://img.shields.io/badge/ESLint-4B32C3?style=for-the-badge&logo=eslint&logoColor=white" />
   <img src="https://img.shields.io/badge/Prettier-F7B93E?style=for-the-badge&logo=prettier&logoColor=black" />
   <img src="https://img.shields.io/badge/Husky-000000?style=for-the-badge" />
 </p>
@@ -177,6 +179,7 @@ SOLID, Clean Code, DRY, KISS, Separation of Concerns — os cinco mandamentos qu
   <a href="https://github.com/MatheusSantos360">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
+  <img src="https://img.shields.io/badge/Discord-%40cody__tryhard-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
 </p>
 
 <p align="center"><i>Se você chegou até aqui lendo tudo isso, ou você tá me stalkeando pra contratar ou tá procrastinando igual eu faço quando devia tá codando. De boa, eu também faria isso.</i></p>
